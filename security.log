@@ -1,0 +1,129 @@
+2026-05-03 19:27:49,473 - WARNING -  * Debugger is active!
+2026-05-03 19:27:49,483 - INFO -  * Debugger PIN: 141-480-196
+2026-05-03 19:27:49,962 - WARNING -  * Debugger is active!
+2026-05-03 19:27:49,968 - INFO -  * Debugger PIN: 141-480-196
+2026-05-03 19:28:05,500 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-03 19:28:05,500 - INFO - [33mPress CTRL+C to quit[0m
+2026-05-03 19:28:05,502 - INFO -  * Restarting with stat
+2026-05-03 19:28:06,366 - WARNING -  * Debugger is active!
+2026-05-03 19:28:06,373 - INFO -  * Debugger PIN: 141-480-196
+2026-05-03 19:28:20,986 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-03 19:28:20,996 - INFO - [33mPress CTRL+C to quit[0m
+2026-05-03 19:28:20,998 - INFO -  * Restarting with stat
+2026-05-03 19:28:21,650 - WARNING -  * Debugger is active!
+2026-05-03 19:28:21,656 - INFO -  * Debugger PIN: 141-480-196
+2026-05-03 19:30:07,349 - INFO - 127.0.0.1 - - [03/May/2026 19:30:07] "[31m[1mPOST /register HTTP/1.1[0m" 400 -
+2026-05-03 19:33:06,427 - INFO - User admin logged in successfully
+2026-05-03 19:33:06,428 - INFO - 127.0.0.1 - - [03/May/2026 19:33:06] "POST /login HTTP/1.1" 200 -
+2026-05-03 19:33:45,589 - INFO - 127.0.0.1 - - [03/May/2026 19:33:45] "GET /profile HTTP/1.1" 200 -
+2026-05-03 19:34:31,592 - INFO - 127.0.0.1 - - [03/May/2026 19:34:31] "[33mDELETE /user/1 HTTP/1.1[0m" 404 -
+2026-05-03 19:42:41,450 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\SecureShield\\app.py', reloading
+2026-05-03 19:42:41,575 - INFO -  * Restarting with stat
+2026-05-03 19:42:42,306 - WARNING -  * Debugger is active!
+2026-05-03 19:42:42,312 - INFO -  * Debugger PIN: 141-480-196
+2026-05-03 19:42:52,713 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-03 19:42:52,714 - INFO - [33mPress CTRL+C to quit[0m
+2026-05-03 19:42:52,716 - INFO -  * Restarting with stat
+2026-05-03 19:42:53,458 - WARNING -  * Debugger is active!
+2026-05-03 19:42:53,464 - INFO -  * Debugger PIN: 141-480-196
+2026-05-03 19:46:23,456 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-03 19:46:23,457 - INFO - [33mPress CTRL+C to quit[0m
+2026-05-03 19:46:23,459 - INFO -  * Restarting with stat
+2026-05-03 19:46:24,858 - WARNING -  * Debugger is active!
+2026-05-03 19:46:24,865 - INFO -  * Debugger PIN: 141-480-196
+2026-05-03 19:47:18,345 - WARNING - Login attempt for non-existing user maria
+2026-05-03 19:47:18,345 - INFO - 127.0.0.1 - - [03/May/2026 19:47:18] "[33mPOST /login HTTP/1.1[0m" 404 -
+2026-05-03 19:48:38,530 - INFO - 127.0.0.1 - - [03/May/2026 19:48:38] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2026-05-03 19:49:38,103 - INFO - User admin logged in
+2026-05-03 19:49:38,103 - INFO - 127.0.0.1 - - [03/May/2026 19:49:38] "POST /login HTTP/1.1" 200 -
+2026-05-03 19:58:53,692 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-03 19:58:53,692 - INFO - [33mPress CTRL+C to quit[0m
+2026-05-03 19:58:53,694 - INFO -  * Restarting with stat
+2026-05-03 19:58:54,330 - WARNING -  * Debugger is active!
+2026-05-03 19:58:54,336 - INFO -  * Debugger PIN: 141-480-196
+2026-05-03 19:59:52,185 - WARNING - Login attempt for non-existing user maria
+2026-05-03 19:59:52,186 - INFO - 127.0.0.1 - - [03/May/2026 19:59:52] "[33mPOST /login HTTP/1.1[0m" 404 -
+2026-05-03 20:01:31,647 - INFO - New user registered: maria
+2026-05-03 20:01:31,648 - INFO - 127.0.0.1 - - [03/May/2026 20:01:31] "[35m[1mPOST /register HTTP/1.1[0m" 201 -
+2026-05-03 20:02:24,423 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-03 20:02:24,424 - INFO - [33mPress CTRL+C to quit[0m
+2026-05-03 20:02:24,426 - INFO -  * Restarting with stat
+2026-05-03 20:02:25,060 - WARNING -  * Debugger is active!
+2026-05-03 20:02:25,065 - INFO -  * Debugger PIN: 141-480-196
+2026-05-03 20:03:42,636 - INFO - User maria logged in
+2026-05-03 20:03:42,637 - INFO - 127.0.0.1 - - [03/May/2026 20:03:42] "POST /login HTTP/1.1" 200 -
+2026-05-03 20:04:18,747 - INFO - 127.0.0.1 - - [03/May/2026 20:04:18] "GET /profile HTTP/1.1" 200 -
+2026-05-03 20:04:34,136 - INFO - 127.0.0.1 - - [03/May/2026 20:04:34] "[31m[1mGET /profile HTTP/1.1[0m" 401 -
+2026-05-03 20:04:55,307 - INFO - 127.0.0.1 - - [03/May/2026 20:04:55] "GET /profile HTTP/1.1" 200 -
+2026-05-03 20:05:43,767 - WARNING - Unauthorized DELETE attempt by maria
+2026-05-03 20:05:43,768 - INFO - 127.0.0.1 - - [03/May/2026 20:05:43] "[31m[1mDELETE /user/1 HTTP/1.1[0m" 403 -
+2026-05-03 20:07:27,872 - INFO - User admin logged in
+2026-05-03 20:07:27,873 - INFO - 127.0.0.1 - - [03/May/2026 20:07:27] "POST /login HTTP/1.1" 200 -
+2026-05-03 20:08:25,307 - INFO - 127.0.0.1 - - [03/May/2026 20:08:25] "[31m[1mDELETE /user/2 HTTP/1.1[0m" 401 -
+2026-05-03 20:08:34,377 - INFO - Admin admin deleted user 2
+2026-05-03 20:08:34,378 - INFO - 127.0.0.1 - - [03/May/2026 20:08:34] "DELETE /user/2 HTTP/1.1" 200 -
+2026-05-03 20:12:09,860 - INFO - User admin logged out
+2026-05-03 20:12:09,861 - INFO - 127.0.0.1 - - [03/May/2026 20:12:09] "POST /logout HTTP/1.1" 200 -
+2026-05-03 20:12:40,676 - INFO - 127.0.0.1 - - [03/May/2026 20:12:40] "[31m[1mGET /profile HTTP/1.1[0m" 401 -
+2026-05-03 20:14:31,925 - INFO - User admin logged in
+2026-05-03 20:14:31,925 - INFO - 127.0.0.1 - - [03/May/2026 20:14:31] "POST /login HTTP/1.1" 200 -
+2026-05-03 20:20:37,392 - ERROR - Invalid token used
+2026-05-03 20:20:37,393 - INFO - 127.0.0.1 - - [03/May/2026 20:20:37] "[31m[1mGET /profile HTTP/1.1[0m" 401 -
+2026-05-03 20:22:08,198 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-03 20:22:08,199 - INFO - [33mPress CTRL+C to quit[0m
+2026-05-03 20:22:08,201 - INFO -  * Restarting with stat
+2026-05-03 20:22:09,576 - WARNING -  * Debugger is active!
+2026-05-03 20:22:09,582 - INFO -  * Debugger PIN: 141-480-196
+2026-05-03 20:22:48,954 - INFO - New user registered: leen
+2026-05-03 20:22:48,955 - INFO - 127.0.0.1 - - [03/May/2026 20:22:48] "[35m[1mPOST /register HTTP/1.1[0m" 201 -
+2026-05-03 20:23:42,589 - INFO - New user registered: test
+2026-05-03 20:23:42,590 - INFO - 127.0.0.1 - - [03/May/2026 20:23:42] "[35m[1mPOST /register HTTP/1.1[0m" 201 -
+2026-05-03 21:27:44,615 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-03 21:27:44,615 - INFO - [33mPress CTRL+C to quit[0m
+2026-05-03 21:27:44,617 - INFO -  * Restarting with stat
+2026-05-03 21:27:45,451 - WARNING -  * Debugger is active!
+2026-05-03 21:27:45,459 - INFO -  * Debugger PIN: 141-480-196
+2026-05-03 21:28:47,471 - INFO - 127.0.0.1 - - [03/May/2026 21:28:47] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2026-05-03 21:30:41,458 - INFO - 127.0.0.1 - - [03/May/2026 21:30:41] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2026-05-03 21:30:53,465 - INFO - 127.0.0.1 - - [03/May/2026 21:30:53] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2026-05-03 21:30:54,405 - INFO - 127.0.0.1 - - [03/May/2026 21:30:54] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2026-05-03 21:30:55,073 - INFO - 127.0.0.1 - - [03/May/2026 21:30:55] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2026-05-03 21:31:05,555 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-03 21:31:05,555 - INFO - [33mPress CTRL+C to quit[0m
+2026-05-03 21:31:05,557 - INFO -  * Restarting with stat
+2026-05-03 21:31:06,261 - WARNING -  * Debugger is active!
+2026-05-03 21:31:06,267 - INFO -  * Debugger PIN: 141-480-196
+2026-05-03 21:31:08,143 - INFO - 127.0.0.1 - - [03/May/2026 21:31:08] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2026-05-03 21:31:20,324 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\SecureShield\\app.py', reloading
+2026-05-03 21:31:20,433 - INFO -  * Restarting with stat
+2026-05-03 21:31:21,108 - WARNING -  * Debugger is active!
+2026-05-03 21:31:21,114 - INFO -  * Debugger PIN: 141-480-196
+2026-05-03 21:31:44,447 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-03 21:31:44,448 - INFO - [33mPress CTRL+C to quit[0m
+2026-05-03 21:31:44,450 - INFO -  * Restarting with stat
+2026-05-03 21:31:45,095 - WARNING -  * Debugger is active!
+2026-05-03 21:31:45,101 - INFO -  * Debugger PIN: 141-480-196
+2026-05-03 21:52:24,871 - INFO - New user registered: noor
+2026-05-03 21:52:24,872 - INFO - 127.0.0.1 - - [03/May/2026 21:52:24] "[35m[1mPOST /register HTTP/1.1[0m" 201 -
+2026-05-03 21:53:31,391 - INFO - User noor logged in
+2026-05-03 21:53:31,391 - INFO - 127.0.0.1 - - [03/May/2026 21:53:31] "POST /login HTTP/1.1" 200 -
+2026-05-03 21:54:25,603 - INFO - 127.0.0.1 - - [03/May/2026 21:54:25] "GET /profile HTTP/1.1" 200 -
+2026-05-03 21:55:45,672 - WARNING - Unauthorized DELETE attempt by noor
+2026-05-03 21:55:45,672 - INFO - 127.0.0.1 - - [03/May/2026 21:55:45] "[31m[1mDELETE /user/4 HTTP/1.1[0m" 403 -
+2026-05-03 21:56:43,394 - INFO - User admin logged in
+2026-05-03 21:56:43,395 - INFO - 127.0.0.1 - - [03/May/2026 21:56:43] "POST /login HTTP/1.1" 200 -
+2026-05-03 21:57:16,744 - INFO - Admin admin deleted user 4
+2026-05-03 21:57:16,745 - INFO - 127.0.0.1 - - [03/May/2026 21:57:16] "DELETE /user/4 HTTP/1.1" 200 -
+2026-05-03 21:58:08,184 - INFO - User admin logged out
+2026-05-03 21:58:08,184 - INFO - 127.0.0.1 - - [03/May/2026 21:58:08] "POST /logout HTTP/1.1" 200 -
+2026-05-03 21:58:47,313 - INFO - 127.0.0.1 - - [03/May/2026 21:58:47] "[31m[1mGET /profile HTTP/1.1[0m" 401 -
